@@ -14,10 +14,10 @@ import subprocess
 
 # SETUP MATRICULA
 # EDITAR SEGUN EJEMPLO: 1234-BJZ
-matri_num = int(2600)
-matri_ltr_1 = "L"
-matri_ltr_2 = "K"
-matri_ltr_3 = "B"
+matri_num = int(1234)
+matri_ltr_1 = "B"
+matri_ltr_2 = "J"
+matri_ltr_3 = "Z"
 
 # DECLARACION DE VARIABLES
 # - - - ¡¡NO TOCAR!! - - -
